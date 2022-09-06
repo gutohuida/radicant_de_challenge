@@ -16,3 +16,13 @@ Create a AppEngine instance and with the Google Cloud SDK run gcloud app deploy 
 
   - **Gustavo Huida Sá Dos Santos**  
 
+## What to do next
+
+Here are some points of improvement to the project:
+
+- Validate fields entering the API
+- More and better error messages
+- Better documentation
+- Using secret manager to store keys
+- Implementing more logs beyong what GCP already logs with stack driver
+
