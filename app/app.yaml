@@ -1,0 +1,7 @@
+runtime: python38
+
+env_variables:
+  INSTANCE_UNIX_SOCKET: /cloudsql/pt-radicant-api:europe-west1:radicant
+  DB_USER: postgres
+  DB_PASS: radicant123
+  DB_NAME: esgfunds
